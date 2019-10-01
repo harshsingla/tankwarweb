@@ -5,9 +5,17 @@ body {
 	overflow-x: hidden;
 }
 
+#mayankwala{
+	width: 101%;
+	border: 2px solid black;
+	top: 258px;
+	left: -8px;
+	position: relative;
+	height: 570px;
+}
 #header {
-  background: #fff;
   position: fixed;
+  background: #fff;
   left: 0;
   top: 0;
   right: 0;
@@ -113,14 +121,6 @@ ul li {
 	margin-left: 760px;
 	top: 120px;
 	position: relative;
-}
-#mayankwala{
-	width: 101%;
-	border: 2px solid black;
-	top: 258px;
-	left: -8px;
-	position: relative;
-	height: 570px;
 }
 iframe {
 	border: none;
