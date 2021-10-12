@@ -22,6 +22,8 @@ function change(child, l, w, img, mouseover) {
 		x.style.left = l+"%";
 		x.style.width = w+"%";
 		x.style.zIndex = "0";
+// 		x.style.zIndex = "0";
+		
 
 		var y = document.getElementById(img);
 		y.style.width = y.offsetWidth+"px";
