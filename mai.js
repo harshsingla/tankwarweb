@@ -1,4 +1,4 @@
-
+// Magical touch 22
 function NavMenu() {
 	nav = document.getElementById("header");
 	//alert(window.pageYOffset);
